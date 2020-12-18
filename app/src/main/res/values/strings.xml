@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fitness tracker</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+    </string-array>
+    <string name="google_maps_key">AIzaSyCPr7SGteWHwOIIjzmVjufwiB0Em71XQoY</string>
+</resources>
