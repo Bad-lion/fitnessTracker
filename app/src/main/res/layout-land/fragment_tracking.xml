@@ -23,6 +23,7 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_above="@+id/btnToggleRun"
+            android:textColor="@android:color/holo_purple"
             android:text="00:00:00:00"
             android:textSize="50sp" />
 
